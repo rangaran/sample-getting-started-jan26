@@ -30,7 +30,7 @@ public class HealthUtilIT {
   private static String contextRoot;
   private static String baseUrl;
   private final static String HEALTH_ENDPOINT = "health";
-  public static final String INV_MAINTENANCE_FALSE = "io_openliberty_sample_system_inMaintenance\":false";
+  public static final String INV_MAINTENANCE_FALSE = "io_openliberty_sample_system_inMaintenance\":false"; 
   public static final String INV_MAINTENANCE_TRUE = "io_openliberty_sample_system_inMaintenance\":true";
 
   static {
